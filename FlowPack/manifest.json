@@ -1,0 +1,98 @@
+{
+  "version": "1.0.0",
+  "name": "Finance FlowPack",
+  "description": "FlowPack oficial de Finance Flow",
+  "updatedAt": "2026-07-24T00:00:00Z",
+  "assets": [
+    {
+      "name": "Wosh 1.MP3",
+      "path": "FX Sound/Wosh 1.MP3",
+      "category": "fx_sound",
+      "url": "FX Sound/Wosh 1.MP3"
+    },
+    {
+      "name": "Wosh 2.MP3",
+      "path": "FX Sound/Wosh 2.MP3",
+      "category": "fx_sound",
+      "url": "FX Sound/Wosh 2.MP3"
+    },
+    {
+      "name": "FXText.MP3",
+      "path": "FXText/FXText.MP3",
+      "category": "fx_text",
+      "url": "FXText/FXText.MP3"
+    },
+    {
+      "name": "Riser FX 1.mp3",
+      "path": "Intros/Riser FX 1.mp3",
+      "category": "intros",
+      "url": "Intros/Riser FX 1.mp3"
+    },
+    {
+      "name": "Riser FX 2.mp3",
+      "path": "Intros/Riser FX 2.mp3",
+      "category": "intros",
+      "url": "Intros/Riser FX 2.mp3"
+    },
+    {
+      "name": "Paper 1.jpg",
+      "path": "Papers/Paper 1.jpg",
+      "category": "papers",
+      "url": "Papers/Paper 1.jpg"
+    },
+    {
+      "name": "Paper 2.jpg",
+      "path": "Papers/Paper 2.jpg",
+      "category": "papers",
+      "url": "Papers/Paper 2.jpg"
+    },
+    {
+      "name": "Paper 3.mp4",
+      "path": "Papers/Paper 3.mp4",
+      "category": "papers",
+      "url": "Papers/Paper 3.mp4"
+    },
+    {
+      "name": "Paper 4.mp4",
+      "path": "Papers/Paper 4.mp4",
+      "category": "papers",
+      "url": "Papers/Paper 4.mp4"
+    },
+    {
+      "name": "Paper 5.mp4",
+      "path": "Papers/Paper 5.mp4",
+      "category": "papers",
+      "url": "Papers/Paper 5.mp4"
+    },
+    {
+      "name": "Paper 6.mp4",
+      "path": "Papers/Paper 6.mp4",
+      "category": "papers",
+      "url": "Papers/Paper 6.mp4"
+    },
+    {
+      "name": "Paper 7.mp4",
+      "path": "Papers/Paper 7.mp4",
+      "category": "papers",
+      "url": "Papers/Paper 7.mp4"
+    },
+    {
+      "name": "Paper 8.mp4",
+      "path": "Papers/Paper 8.mp4",
+      "category": "papers",
+      "url": "Papers/Paper 8.mp4"
+    },
+    {
+      "name": "cliker.MP3",
+      "path": "Pop/cliker.MP3",
+      "category": "pop",
+      "url": "Pop/cliker.MP3"
+    },
+    {
+      "name": "Film burn FX.mp4",
+      "path": "Transitions/Film burn FX.mp4",
+      "category": "transitions",
+      "url": "Transitions/Film burn FX.mp4"
+    }
+  ]
+}
